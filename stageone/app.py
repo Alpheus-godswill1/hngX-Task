@@ -28,8 +28,8 @@ def get_info():
     current_time = datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
 
     # Construct GitHub URLs
-    github_file_url = "https://github.com/Chris-ade/hngx/blob/main/stage_one/app.py"
-    github_repo_url = "https://github.com/chris-ade/hngx"
+    github_file_url = "https://github.com/Alpheus-godswill1/hngX-Task/blob/main/stageone/app.py"
+    github_repo_url = "https://github.com/Alpheus-godswill1/hngx"
 
     # Prepare the response JSON
     response_data = {
